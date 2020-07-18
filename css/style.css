@@ -337,5 +337,13 @@ footer h3{
     .desktop{
        width: 100%;
     } 
-
+    .telefone{
+        width: 100%;
+    }
+    .email{
+        width: 100%;
+    }
+    .banner-single{
+        width: 100%;
+    }
 }
