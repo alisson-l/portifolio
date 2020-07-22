@@ -376,7 +376,8 @@ footer h3{
     .email{
         width: 100%;
     }
-    .banner-single{
-        overflow-x: hidden;
+    img{
+        width: 350px;
+        height: 150px;
     }
 }
